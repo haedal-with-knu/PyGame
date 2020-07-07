@@ -17,7 +17,7 @@ Pygame Track
 
 + [배경에 사각형 그리기](./PygameOne.py)
 
-![사각형그리기](./img/rect.PNG =100x)
+![사각형그리기](./img/rect.PNG)
 
 + [배경에 원,타원그리기](./PygameTwo.py)
 
