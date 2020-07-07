@@ -1,3 +1,5 @@
+
+#배경에 직사각형 그리기
 import sys
 import pygame
 from pygame.locals import QUIT, Rect
