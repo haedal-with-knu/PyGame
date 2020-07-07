@@ -1,7 +1,7 @@
 # Pyguette
 Pygame Track
 
- ###직접만들어보는 파이게임
+ ### 직접만들어보는 파이게임
  
 출처 : [이수안랩유튜브강의](https://www.youtube.com/watch?v=-e_5sOsKqrU&feature=emb_logo)  / [이수안랩바로가기](http://suanlab.com/)
 
@@ -12,7 +12,7 @@ Pygame Track
 [운석 피하기 게임](./PySpaceship/pyspaceship.py)
 
 -----------------------------------------------------------
- ###배경에 도형그리기
+ ### 배경에 도형그리기
 + 출처: 게임으로 배우는 파이썬(저자 다나카 겐이치로)
 
 + [배경에 사각형 그리기](./PygameOne.py)
