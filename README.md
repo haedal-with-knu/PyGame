@@ -69,7 +69,7 @@ Pygame Track
 
 </details>
 
-+ [글자불러오고 줌인회전시키기](./Pygameseven.py)
++ [글자불러오고 줌인회전시키기](./PygameSeven.py)
 
 <details markdown ='1'>
 <summary>사진접기/사진펼치기</summary>
