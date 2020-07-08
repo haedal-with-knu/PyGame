@@ -9,7 +9,7 @@ SURFACE = pygame.display.set_mode((400,300))
 FPSCLOCk = pygame.time.Clock()
 
 def main():
-    logo = pygame.image.load("./img/pythonlogo.jpg")
+    logo = pygame.image.load("pythonlogo.jpg")
     theta = 0
     while True:
         for event in pygame.event.get():

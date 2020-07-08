@@ -15,7 +15,7 @@ Pygame Track
  ### 배경에 도형그리기
 + 출처: 게임으로 배우는 파이썬(저자 다나카 겐이치로)
 
-+ [배경에 사각형 그리기](./PygameOne.py)
++ [배경에 사각형 그리기](./PygamePrac/PygameOne.py)
 <details markdown ='1'>
 <summary>사진접기/사진펼치기</summary>
 
@@ -23,7 +23,7 @@ Pygame Track
 
  </details>
 
-+ [배경에 원,타원그리기](./PygameTwo.py)
++ [배경에 원,타원그리기](./PygamePrac/PygameTwo.py)
 
 <details markdown ='1'>
 <summary>사진접기/사진펼치기</summary>
@@ -32,7 +32,7 @@ Pygame Track
 
 </details>
 
-+ [배경에 선,격자무늬 그리기](./PygameThree.py)
++ [배경에 선,격자무늬 그리기](./PygamePrac/PygameThree.py)
 
 <details markdown ='1'>
 <summary>사진접기/사진펼치기</summary>
@@ -42,7 +42,7 @@ Pygame Track
 
 </details>
 
-+ [배경에 임의의점을 잇는 선그리기](./PygameFour.py)
++ [배경에 임의의점을 잇는 선그리기](./PygamePrac/PygameFour.py)
 
 <details markdown ='1'>
 <summary>사진접기/사진펼치기</summary>
@@ -51,7 +51,7 @@ Pygame Track
 
 </details>
 
-+ [폴라곤그리기](./PygameFive.py)
++ [폴라곤그리기](./PygamePrac/PygameFive.py)
 
 <details markdown ='1'>
 <summary>사진접기/사진펼치기</summary>
@@ -60,7 +60,7 @@ Pygame Track
 
 </details>
 
-+ [이미지파일불러오고 회전시키기](./PygameSix.py)
++ [이미지파일불러오고 회전시키기](./PygamePrac/PygameSix.py)
 
 <details markdown ='1'>
 <summary>사진접기/사진펼치기</summary>
@@ -69,7 +69,7 @@ Pygame Track
 
 </details>
 
-+ [글자불러오고 줌인회전시키기](./PygameSeven.py)
++ [글자불러오고 줌인회전시키기](./PygamePrac/PygameSeven.py)
 
 <details markdown ='1'>
 <summary>사진접기/사진펼치기</summary>
@@ -78,8 +78,8 @@ Pygame Track
 
 </details>
 
-+ [마우스로 점찍기](./PygameEight.py)
-+ [마우스이동으로 글 혹은 그림 그리기](./PygameNine.py)
++ [마우스로 점찍기](./PygamePrac/PygameEight.py)
++ [마우스이동으로 글 혹은 그림 그리기](./PygamePrac/PygameNine.py)
 
 <details markdown ='1'>
 <summary>사진접기/사진펼치기</summary>
@@ -88,3 +88,11 @@ Pygame Track
 
 </details>
 
++ [키다운으로 이미지 옮기기](./PygamePrac/PygameTen.py)
+
+<details markdown ='1'>
+<summary>사진접기/사진펼치기</summary>
+
+![키다운으로 이미지 옮기기](./img/움직이는사진.PNG)
+
+</details>
