@@ -16,8 +16,12 @@ Pygame Track
 + 출처: 게임으로 배우는 파이썬(저자 다나카 겐이치로)
 
 + [배경에 사각형 그리기](./PygameOne.py)
+<details markdown ='1'>
+<summary>접기/펼치기</summary>
 
-![사각형그리기](./img/rect.PNG)
+ ![사각형그리기](./img/rect.PNG)
+
+ </details>
 
 + [배경에 원,타원그리기](./PygameTwo.py)
 
@@ -35,3 +39,5 @@ Pygame Track
 + [폴라곤그리기](./PygameFive.py)
 
 ![폴라곤그리기](./img/폴라곤그리기.PNG)
+
+
