@@ -62,3 +62,18 @@ Pygame Track
 
 + [이미지파일불러오고 회전시키기](./PygameSix.py)
 
+<details markdown ='1'>
+<summary>사진접기/사진펼치기</summary>
+
+![이미지불러오기](./img/이미지불러오기.PNG)
+
+</details>
+
++ [글자불러오고 줌인회전시키기](./Pygameseven.py)
+
+<details markdown ='1'>
+<summary>사진접기/사진펼치기</summary>
+
+![글자불러오기](./img/글자불러오기.PNG)
+
+</details>
