@@ -17,7 +17,7 @@ Pygame Track
 
 + [배경에 사각형 그리기](./PygameOne.py)
 <details markdown ='1'>
-<summary>접기/펼치기</summary>
+<summary>사진접기/사진펼치기</summary>
 
  ![사각형그리기](./img/rect.PNG)
 
@@ -25,19 +25,40 @@ Pygame Track
 
 + [배경에 원,타원그리기](./PygameTwo.py)
 
+<details markdown ='1'>
+<summary>사진접기/사진펼치기</summary>
+
 ![원그리기](./img/원.PNG)
 
+</details>
+
 + [배경에 선,격자무늬 그리기](./PygameThree.py)
+
+<details markdown ='1'>
+<summary>사진접기/사진펼치기</summary>
 
 ![선 그리기](./img/선그리기.PNG)
 ![격자무늬 그리기](./img/격자무늬.PNG)
 
+</details>
+
 + [배경에 임의의점을 잇는 선그리기](./PygameFour.py)
+
+<details markdown ='1'>
+<summary>사진접기/사진펼치기</summary>
 
 ![점들을 잇는 선그리기](./img/선잇기.PNG)
 
+</details>
+
 + [폴라곤그리기](./PygameFive.py)
+
+<details markdown ='1'>
+<summary>사진접기/사진펼치기</summary>
 
 ![폴라곤그리기](./img/폴라곤그리기.PNG)
 
+</details>
+
++ [이미지파일불러오고 회전시키기](./PygameSix.py)
 
