@@ -77,3 +77,14 @@ Pygame Track
 ![글자불러오기](./img/글자불러오기.PNG)
 
 </details>
+
++ [마우스로 점찍기](./PygameEight.py)
++ [마우스이동으로 글 혹은 그림 그리기](./PygameNine.py)
+
+<details markdown ='1'>
+<summary>사진접기/사진펼치기</summary>
+
+![마우스로 점찍기](./img/마우스포인터.PNG)
+
+</details>
+
