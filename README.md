@@ -96,3 +96,12 @@ Pygame Track
 ![키다운으로 이미지 옮기기](./img/움직이는사진.PNG)
 
 </details>
+
++ [Cos,Sin이용 별모양 그리기](./PygamePrac/PygameEleven.py)
+
+<details markdown ='1'>
+<summary>사진접기/사진펼치기</summary>
+
+![별모양 그리기](./img/별모양만들기.PNG)
+
+</details>
