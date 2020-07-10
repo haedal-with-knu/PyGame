@@ -18,7 +18,8 @@ def main():
         pygame.draw.rect(SURFACE, (255,0,0), (150,10,100,30),3)
         #초록 직사각형
         pygame.draw.rect(SURFACE, (0,255,0),((100,80),(80,50)))
-
+        
+        #사각형을 그리기위한 코드
         rect0= Rect(200,60,140,80)
 
         pygame.draw.rect(SURFACE,(0,0,255),rect0)

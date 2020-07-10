@@ -17,9 +17,9 @@ def main():
 
         SURFACE.fill((0,0,0))
 
-        pointlist= []
+        pointlist= [] #빈리스트를 정해줍니다.
         for _ in range(10):
-            xpos = random.randint(0,400)
+            xpos = random.randint(0,400) #x와 y값을 임의의 범위에서 정해서 빈리스트에 튜플형식으로 넣어줍니다.
             ypos = random.randint(0,300)
             pointlist.append((xpos,ypos))
 

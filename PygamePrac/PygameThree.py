@@ -48,7 +48,7 @@ def main():
                 sys.exit()
 
         SURFACE.fill((255,255,255))
-
+        #범위에 맞게 선을 그어줍니다.
         for xpos in range(0,400,25):
             pygame.draw.line(SURFACE,(255,0,0),(xpos,0),(xpos,300))
 

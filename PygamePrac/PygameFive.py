@@ -20,9 +20,9 @@ def main():
 
         pointlist0, pointlist1 = [],[]
 
-        for theta in range(0,360,72):
+        for theta in range(0,360,72): #오각형을 그리기위한 각도를 지정해줍니다.
             rad = radians(theta)
-            pointlist0.append((cos(rad)*100 + 100, sin(rad)*100 + 150))
+            pointlist0.append((cos(rad)*100 + 100, sin(rad)*100 + 150)) #빈리스트에 정해진 각도들을 넣어줍니다.
             pointlist1.append((cos(rad)*100 + 300, sin(rad)*100 + 150))
 
         pygame.draw.lines(SURFACE, (0,0,0),True, pointlist0)

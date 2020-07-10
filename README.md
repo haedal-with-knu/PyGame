@@ -15,6 +15,8 @@ Pygame Track
  ### 배경에 도형그리기
 + 출처: 게임으로 배우는 파이썬(저자 다나카 겐이치로)
 
++ [주요코드 먼저 알아보기](./PygamePrec/PygameZero.py)
+
 + [배경에 사각형 그리기](./PygamePrac/PygameOne.py)
 <details markdown ='1'>
 <summary>사진접기/사진펼치기</summary>
@@ -105,3 +107,5 @@ Pygame Track
 ![별모양 그리기](./img/별모양만들기.PNG)
 
 </details>
+
++ [클래스와 상속에 관한 코드](./PygamePrac/PygameTwelve.py)
