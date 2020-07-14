@@ -17,6 +17,8 @@ Pygame Track
 
 [우주선 동굴 통과하기](./PygameCave.py)
 
+[지뢰찾기](./PyagameMine_sweeper.py)
+
 -----------------------------------------------------------
  ### 배경에 도형그리기
 출처: 게임으로 배우는 파이썬(저자: 다나카 겐이치로)
@@ -116,4 +118,3 @@ Pygame Track
 
 + [클래스와 상속에 관한 코드](./PygamePrac/PygameTwelve.py)  
 
-Git Test
