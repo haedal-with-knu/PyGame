@@ -5,7 +5,7 @@ Pygame Track
  
  + [주요코드 먼저 알아보기](./PygamePrac/PygameZero.py)
  
-###출처 : [이수안랩유튜브강의](https://www.youtube.com/watch?v=-e_5sOsKqrU&feature=emb_logo)  / [이수안랩바로가기](http://suanlab.com/)
+ ### 출처 : [이수안랩유튜브강의](https://www.youtube.com/watch?v=-e_5sOsKqrU&feature=emb_logo)  / [이수안랩바로가기](http://suanlab.com/)
 
 ![운석맞추기](img/운석맞추기.PNG)
 
@@ -24,7 +24,7 @@ Pygame Track
 
 [운석 피하기 게임](./PySpaceship/pyspaceship.py)
 
-###출처 : 게임으로 배우는 파이썬(저자: 다나카 겐이치로)
+ ### 출처 : 게임으로 배우는 파이썬(저자: 다나카 겐이치로)
 
 ![케이브](./img/cave.PNG)
 
