@@ -5,7 +5,7 @@ Pygame Track
  
  + [주요코드 먼저 알아보기](./PygamePrac/PygameZero.py)
  
-출처 : [이수안랩유튜브강의](https://www.youtube.com/watch?v=-e_5sOsKqrU&feature=emb_logo)  / [이수안랩바로가기](http://suanlab.com/)
+###출처 : [이수안랩유튜브강의](https://www.youtube.com/watch?v=-e_5sOsKqrU&feature=emb_logo)  / [이수안랩바로가기](http://suanlab.com/)
 
 ![운석맞추기](img/운석맞추기.PNG)
 
@@ -24,7 +24,7 @@ Pygame Track
 
 [운석 피하기 게임](./PySpaceship/pyspaceship.py)
 
-출처: 게임으로 배우는 파이썬(저자: 다나카 겐이치로)
+###출처 : 게임으로 배우는 파이썬(저자: 다나카 겐이치로)
 
 ![케이브](./img/cave.PNG)
 
@@ -45,6 +45,19 @@ Pygame Track
 운석이 닿게 되면 게임은 종료됩니다.
 
 [3D인척하는 2D](./PygameSaturnVoyager.py)
+
+![snake](./img/snake.PNG)
+
+뱀의 머리가 돌아다니면서 초록색 먹이를 한개씩 먹고 먹이를 먹을수록 뱀의 길이가 길어집니다.
+ 자신의 몸에 닿거나 화면밖으로 나가게 되면 게임은 종료됩니다. 
+
+def 파일
+
+[Snake def file](./PygameSnake.py)
+
+class 파일
+
+[Snake class file](./PygameSnakeC.py)
 
 -----------------------------------------------------------
  ### 배경에 도형그리기
