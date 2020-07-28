@@ -40,13 +40,14 @@ edge.move_ip(10,slope)
 holes.append(edge)
 del holes[0]
 holes = [x.move(-10,0) for x in holes]
-```buildoutcfg
+```
 edge = holes[walls-1].copy()에서는 오른쪽 끝 직사각형을 복사해서 edge에 저장하는 코드입니다.
 결국 배열번호가 0부터 시작되어 walls-1의 마지막 요소를 취득할수 있습니다. 따라서
 edge = holes[-1].copy()로 바꿔도 가능합니다.
 2번째줄 부터는 새로만든 직사각형을 이동시켜 천장이나 바닥에 부딪히지않는지 검출합니다
 부딪힌다면 동굴의 기울기를 반대방향으로 합니다. Y축방향의 크기를 20만큼 작게하고 오른쪽
 끝의 직사각형을 X축방향으로 +10 Y축방향으로 slope만큼 이동합니다
+
 
 ```buildoutcfg
 if holes[0].top> ship_y or holes[0].bottom <ship_y + 80:
