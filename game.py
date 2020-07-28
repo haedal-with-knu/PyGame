@@ -1,5 +1,7 @@
 import sys
 import pygame
+import random
+import math
 from pygame.locals import *
 
 pygame.init()
@@ -10,7 +12,6 @@ FPSCLOCK = pygame.time.Clock()
 pygame.display.set_caption('Game : 공피하기')
 default_font = pygame.font.Font('NanumGothic.ttf',28)
 empty_list =[]
-BALL = empty_list((242,242,0), Rect(300,400,20,20),10)
 
 
 def draw_text(text, font, surface, x, y, main_color):
@@ -19,13 +20,13 @@ def draw_text(text, font, surface, x, y, main_color):
     text_rect.centerx = x
     text_rect.centery = y
     surface.blit(text_obj, text_rect)
-
+def Ball_Plus:
+    #볼이무려 5개! 그러다가 이제얘네가 막 돌거든 그걸 내가 피해 ㅇㅋ? 그리고
+    Ball = pygame. display
 def ingame():
     global score
-    myfont = pygame.font.SysFont(None,80)
-    mess_clear = myfont.render("CLEARED!", True, (255,255,0))
-    mess_over = myfont.render("GAME OVER!",True, (255,255,0))
-
+    mess_clear = default_font.render("CLEARED!", True, (255,255,0))
+    mess_over = default_font.render("GAME OVER!",True, (255,255,0))
     haedal = pygame.image.load('fighter2.png')
 
 def F_Screen():
