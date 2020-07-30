@@ -1,5 +1,5 @@
 # Pyguette
-## Pygame Track
+## Pygame
 
 ### 파이게임 Install
 
@@ -32,3 +32,10 @@
  
  + [운석파괴 Shooting_Game](./Readme/README2.md)
  + [Mouse로 운석 피하기](./Readme/README4.md)
+
+----------------------------------------------------------------
+# 엔트리
+## 엔트리 게임을 만들어 교육봉사 가자!!
+ 
+ + [19단외우기게임]
+ 
