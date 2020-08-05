@@ -3,20 +3,32 @@
 
 ### 파이게임 Install
 
+<br>
+
  + [파이썬 설치하기](./Readme/PyThon.md) (파이썬 없는 분)
  + [파이참 설치하기](./Readme/PytC.md) (파이썬 있는 분)
  + [파이게임 설치하기](./Readme/PyG.md) (파이참 있는 분)
 
+<br>
  
 ### 파이게임 window창에 이미지나 도형을 그리기위한 코드정리
   
-  
+<br>
+
  + [주요코드 먼저 알아보기](./PygamePrac/PygameZero.py)  
  + [배경에 도형그리기](./Readme/README3.md)
+
+<br>
  
 ##  직접만들어보는 파이게임
  
- 
+<br>
+
+#### 따라하면서 게임만들어보기
+ + [화면상 도형 움직이기](./Readme/PracGame1.md)
+
+<br>
+
 #### 출처 : 게임으로 배우는 파이썬(저자: 다나카 겐이치로)
 
 

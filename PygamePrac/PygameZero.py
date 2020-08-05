@@ -5,7 +5,7 @@ from pygame.locals import QUIT #pygame.locals 중에서 게임을 종료하기�
 
 pygame.init() #pygame의 초깃값을 설정해줍니다.
 SURFACE = pygame.display.set_mode((400,300)) #pygame의 화면을 띄운다
-FPSCLOCK = pygame.time.Clock() #pygame의 시간을 설정한다.
+FPSCLOCK = pygame.time.Clock() #pygame의 프레임을 설정한다.
 
 def main():
     while True:
