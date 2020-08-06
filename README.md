@@ -24,7 +24,7 @@
 <br>
 
  + [화면상 도형 움직이기](./Readme/PracGame1.md)
- + [도형 계속 지나가기]
+ + [도형 계속 지나가기](./Readme/PracGame2.md)
 
 <br>
 
