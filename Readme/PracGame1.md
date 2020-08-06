@@ -24,7 +24,6 @@ pygame.key.set_repeat(15, 15) #키보드키의 연속동작
 SURFACE = pygame.display.set_mode((WIDTH,HEIGHT)) #화면의 크기
 pygame.display.set_caption("Test") #게임의 이름정하기
 FPSCLOCK = pygame.time.Clock() ##pygame의 프레임을 설정한다
-
 ```
 
 <br>
@@ -46,7 +45,6 @@ def main():
             if event.type == QUIT:
                 pygame.quit()
                 sys.exit()
-
 ```
 
 <br>
