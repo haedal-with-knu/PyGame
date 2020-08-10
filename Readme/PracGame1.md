@@ -2,6 +2,11 @@
 
  + [도형움직이기](../GamePrac/Prac1.py) 
 
+<br>
+
+ + ![Prac1.gif](../img/PracRe1.gif)
+
+<br>
  + 간단하게 화면상의 원을 방향키를 사용하여 움직입니다.
  
 ```buildoutcfg
@@ -14,7 +19,7 @@ from pygame.locals import KEYDOWN,K_LEFT,K_RIGHT,K_UP,K_DOWN,QUIT
 
  + 파이게임, 시스템 모듈을 가져옵니다. 그리고 방향키를 눌렀을 때 방향키를 사용하고 창을 닫으면 게임이 종료되는 기능을 가져옵니다.
  
- <br>
+<br>
  
  ```buildoutcfg
 pygame.init()

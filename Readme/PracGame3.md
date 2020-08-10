@@ -2,6 +2,12 @@
 
  + [충돌하는 도형과 도형!](../GamePrac/Prac5.py)
  
+ <br>
+ 
+ + ![PracRe3](../img/PracRe3.gif)
+ 
+ <br>
+ 
   + 간단하게 화면상의 원을 방향키를 사용하여 움직입니다.
  
 ```buildoutcfg

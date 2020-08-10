@@ -2,6 +2,12 @@
 
  + [도형 계속 지나가기](../GamePrac/Prac3.py)
  
+ <br>
+ 
+ + ![PracRe2](../img/PracRe2.gif)
+ 
+ <br>
+ 
  + 도형이 계속 해서 화면을 통과하여 지나갑니다.
  
  
