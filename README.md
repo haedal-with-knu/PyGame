@@ -34,10 +34,7 @@
 
  + [Space Bar로 동굴탈출하기](./Readme/README5.md)
  + [추억의 지뢰찾기](./Readme/README6.md)
- + [3D처럼 보이는 2D운석피하기](./Readme/README7.md)
- + [Snake 키우기](./Readme/README8.md)
- + [Block 부수기](./Readme/README9.md)
- 
+
  
 #### 출처 : [이수안랩유튜브강의](https://www.youtube.com/watch?v=-e_5sOsKqrU&feature=emb_logo)  / [이수안랩바로가기](http://suanlab.com/)
  
