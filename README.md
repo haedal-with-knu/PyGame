@@ -16,16 +16,24 @@
  
 <br>
 
-### 따라하면서 게임만들어보기
+### 기본코드와 배경
  
  + [주요코드 먼저 알아보기](./PygamePrac/PygameZero.py)  
  + [배경에 도형그리기](./Readme/README3.md)
 
 <br>
 
+### 도형움직이기와 충돌여부체크
+
  + [화면상 도형 움직이기](./Readme/PracGame1.md)
- + [도형 계속 지나가기](./Readme/PracGame2.md)
+ + [도형 지나가기](./Readme/PracGame2.md)
  + [움직이는 도형과 지나가는 도형 충돌](./Readme/PracGame3.md)
+ 
+ <br>
+ 
+ ### 랜덤한 공 피하기
+ 
+ + [위에서 아래로 떨어지는 랜덤 공](./Readme/PracGame4.md)
 
 <br>
 
