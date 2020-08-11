@@ -8,7 +8,7 @@
 
 <br>
 
-+ ### [가로로 떨어져유](../GamePrac/Prac7.py)
++ ### [가로로 지나가유](../GamePrac/Prac7.py)
 
 <br>
 

@@ -34,6 +34,8 @@
  ### 랜덤한 공 피하기
  
  + [위에서 아래로 떨어지는 랜덤 공](./Readme/PracGame4.md)
+ + [사방팔방 공 반사시키기](./Readme/PracGame5.md)
+ + [Avoid The Ball_Game](./Readme/PracGame6.md)
 
 <br>
 
