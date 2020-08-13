@@ -17,8 +17,8 @@ def main():
     score = 0
     slope = randint(1, 6)
     sysfont = pygame.font.SysFont(None, 36)
-    ship_image = pygame.image.load("ship.png")
-    bang_image = pygame.image.load("bang.png")
+    ship_image = pygame.image.load("../img/ship.png")
+    bang_image = pygame.image.load("../img/bang.png")
     holes = []
     for xpos in range(walls):
         holes.append(Rect(xpos * 10, 100, 10, 400))

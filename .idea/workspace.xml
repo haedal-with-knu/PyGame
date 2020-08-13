@@ -20,11 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b91ae0e-27e8-4cae-9cfb-a810102a6e66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GamePrac/Prac9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/공피하기연습.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Dodge.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme/PracGame5.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme/PracGame5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GamePrac/Avoid_The_Ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/GamePrac/Avoid_The_Ball.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GamePrac/Prac9.py" beforeDir="false" afterPath="$PROJECT_DIR$/GamePrac/Prac9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GamePrac/cave.py" beforeDir="false" afterPath="$PROJECT_DIR$/GamePrac/cave.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lotto1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lotto1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme/PracGame6.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme/PracGame6.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +61,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PythonProject\pYGame\GamePrac" />
+      <recent name="C:\PythonProject\pYGame" />
+      <recent name="C:\PythonProject\pYGame\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\PythonProject\pYGame\img" />
       <recent name="C:\PythonProject\pYGame\GamePrac" />
@@ -66,14 +73,9 @@
       <recent name="C:\PythonProject\pYGame\venv" />
       <recent name="C:\PythonProject\pYGame\PygamePrac" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\PythonProject\pYGame\GamePrac" />
-      <recent name="C:\PythonProject\pYGame" />
-      <recent name="C:\PythonProject\pYGame\img" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.Prac9">
-    <configuration name="Prac4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Avoid_The_Ball">
+    <configuration name="Avoid_The_Ball" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pYGame" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GamePrac/Prac4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GamePrac/Avoid_The_Ball.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prac5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lotto1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pYGame" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,53 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GamePrac" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GamePrac/Prac5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Prac6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pYGame" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GamePrac" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GamePrac/Prac6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Prac8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pYGame" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GamePrac" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GamePrac/Prac8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lotto1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,13 +138,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Pygameblocks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pYGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GamePrac" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GamePrac/Pygameblocks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cave" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pYGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GamePrac" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GamePrac/cave.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Avoid_The_Ball" />
+        <item itemvalue="Python.Lotto1" />
         <item itemvalue="Python.Prac9" />
-        <item itemvalue="Python.Prac5" />
-        <item itemvalue="Python.Prac4" />
-        <item itemvalue="Python.Prac8" />
-        <item itemvalue="Python.Prac6" />
+        <item itemvalue="Python.Pygameblocks" />
+        <item itemvalue="Python.cave" />
       </list>
     </recent_temporary>
   </component>
@@ -232,72 +234,72 @@
     <state x="481" y="133" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1596678705555" />
     <state x="481" y="133" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593663602288" />
     <state x="481" y="135" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1594968561446" />
-    <state width="1899" height="288" key="GridCell.Tab.0.bottom" timestamp="1597196444236">
+    <state width="1899" height="183" key="GridCell.Tab.0.bottom" timestamp="1597283981186">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-163.1920.1040@-1920.-163.1920.1040" timestamp="1594007326599" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-163.1920.1040@0.0.1366.728" timestamp="1594106792253" />
     <state width="1345" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-79.1920.1040@0.0.1366.728" timestamp="1596778940198" />
-    <state width="1899" height="288" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597196444236" />
-    <state width="1345" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597025883154" />
+    <state width="1899" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597283981186" />
+    <state width="1345" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597283817988" />
     <state width="1345" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596790243358" />
     <state width="1345" height="163" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1594971800070" />
-    <state width="1899" height="288" key="GridCell.Tab.0.center" timestamp="1597196444235">
+    <state width="1899" height="183" key="GridCell.Tab.0.center" timestamp="1597283981185">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-163.1920.1040@-1920.-163.1920.1040" timestamp="1594007326597" />
     <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-163.1920.1040@0.0.1366.728" timestamp="1594106792252" />
     <state width="1345" height="160" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-79.1920.1040@0.0.1366.728" timestamp="1596778940198" />
-    <state width="1899" height="288" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597196444235" />
-    <state width="1345" height="160" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597025883154" />
+    <state width="1899" height="183" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597283981185" />
+    <state width="1345" height="183" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597283817988" />
     <state width="1345" height="160" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596790243357" />
     <state width="1345" height="163" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1594971800069" />
-    <state width="1899" height="288" key="GridCell.Tab.0.left" timestamp="1597196444235">
+    <state width="1899" height="183" key="GridCell.Tab.0.left" timestamp="1597283981184">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-163.1920.1040@-1920.-163.1920.1040" timestamp="1594007326597" />
     <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-163.1920.1040@0.0.1366.728" timestamp="1594106792251" />
     <state width="1345" height="160" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-79.1920.1040@0.0.1366.728" timestamp="1596778940197" />
-    <state width="1899" height="288" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597196444235" />
-    <state width="1345" height="160" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597025883154" />
+    <state width="1899" height="183" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597283981184" />
+    <state width="1345" height="183" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597283817987" />
     <state width="1345" height="160" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596790243357" />
     <state width="1345" height="163" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1594971800069" />
-    <state width="1899" height="288" key="GridCell.Tab.0.right" timestamp="1597196444235">
+    <state width="1899" height="183" key="GridCell.Tab.0.right" timestamp="1597283981185">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-163.1920.1040@-1920.-163.1920.1040" timestamp="1594007326598" />
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-163.1920.1040@0.0.1366.728" timestamp="1594106792252" />
     <state width="1345" height="160" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-79.1920.1040@0.0.1366.728" timestamp="1596778940198" />
-    <state width="1899" height="288" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597196444235" />
-    <state width="1345" height="160" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597025883154" />
+    <state width="1899" height="183" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597283981185" />
+    <state width="1345" height="183" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597283817988" />
     <state width="1345" height="160" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596790243358" />
     <state width="1345" height="163" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1594971800070" />
-    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1597195784173">
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1597225626680">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-163.1920.1040@0.0.1366.728" timestamp="1594100864971" />
-    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597195784173" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597225626680" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597023697922" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596000286729" />
-    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1597195784173">
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1597225626680">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-163.1920.1040@0.0.1366.728" timestamp="1594100864970" />
-    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597195784173" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597225626680" />
     <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597023697922" />
     <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596000286729" />
-    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1597195784173">
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1597225626679">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-163.1920.1040@0.0.1366.728" timestamp="1594100864970" />
-    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597195784173" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597225626679" />
     <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597023697922" />
     <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596000286729" />
-    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1597195784173">
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1597225626680">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-163.1920.1040@0.0.1366.728" timestamp="1594100864970" />
-    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597195784173" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597225626680" />
     <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1597023697922" />
     <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596000286729" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1595913611351">

@@ -65,6 +65,7 @@ def main():
             pygame.draw.circle(SURFACE, (255, 255, 0), (rdy_posx[i], rdy_posy[i]), 2)
             if rdx_posy[i]<0 or rdx_posy[i] > 600 :
                 velocity_y[i] *= -1
+
             if rdy_posx[i]<0 or rdy_posx[i] > 600 :
                 velocity_x[i] *= -1
             rdx_posy[i] += velocity_y[i]
