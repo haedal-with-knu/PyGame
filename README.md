@@ -39,12 +39,19 @@
 
 <br>
 
+ ### 슈팅게임
+
+ + [게임 화면 생성](./Readme/Game_WIndow.md) 
+
+<br>
+
 #### 출처 : 게임으로 배우는 파이썬(저자: 다나카 겐이치로)
 
 
  + [Space Bar로 동굴탈출하기](./Readme/README5.md)
  + [추억의 지뢰찾기](./Readme/README6.md)
 
+ <br>
  
 #### 출처 : [이수안랩유튜브강의](https://www.youtube.com/watch?v=-e_5sOsKqrU&feature=emb_logo)  / [이수안랩바로가기](http://suanlab.com/)
  
