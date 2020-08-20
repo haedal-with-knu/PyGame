@@ -42,7 +42,8 @@
  ### 슈팅게임
 
  + [게임 화면 생성](./Readme/Game_WIndow.md) 
-
+ + [SHOOTING](./Readme/Game_SHOOT.md)
+ 
 <br>
 
 #### 출처 : 게임으로 배우는 파이썬(저자: 다나카 겐이치로)
